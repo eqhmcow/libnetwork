@@ -3,6 +3,8 @@
 ### Design
 TODO
 
+Uses vxlan kernel module
+
 ### Multi-Host Overlay Driver Quick Start
 
 This example is to provision two Docker Hosts with the **experimental** Libnetwork overlay network driver.
